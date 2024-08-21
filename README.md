@@ -1,0 +1,1 @@
+Infinite Monkey Type is a simple python program where you input some characters and it simulates a single "monkey" randomly typing at a keyboard unil that sequence of characters gets typed in that order then,it shows you how many attempts it took and how long it took.
